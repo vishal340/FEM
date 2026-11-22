@@ -1,0 +1,10 @@
+build/
+compile_commands.json
+.cache/
+*.o
+*.a
+*.dylib
+*.so
+.DS_Store
+.vscode/
+.idea/
